@@ -1,0 +1,6 @@
+pandas
+seaborn
+locale
+streamlit
+numpy
+matplotlib
